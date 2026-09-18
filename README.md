@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="YOUR_BANNER_URL" width="100%" alt="Yetunde Badru Banner"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;Building+AI-Powered+Solutions"/>
-</p>
-
 <div align="center">
 
 # Hi there 👋
@@ -16,21 +8,7 @@
 
 I'm passionate about building data-driven and machine learning solutions that turn complex problems into practical, deployable products.
 
-I work across predictive modelling, machine learning engineering, analytics, cloud deployment, and AI product development. I enjoy translating research into real-world applications and building systems that create measurable impact.
-
-I also contribute to open-source projects in my leisure time.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yetundebarakbadru">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@yetundebarakbadru">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://substack.com/@yetundebadru">
-    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
-  </a>
-</p>
+I work across predictive modelling, machine learning engineering, analytics, cloud deployment, and AI product development.
 
 </div>
 
@@ -49,40 +27,15 @@ I also contribute to open-source projects in my leisure time.
 
 ## My Tech Stack
 
-### Languages
+**Languages:** Python, SQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
+**Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch
 
-### Data & Machine Learning
+**Visualization:** Power BI, Tableau
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
+**Deployment & MLOps:** Docker, AWS, Flask
 
-### Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-</p>
-
-### Deployment & MLOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,flask" />
-</p>
-
-### Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-</p>
+**Version Control:** Git, GitHub, GitLab
 
 ---
 
@@ -90,7 +43,7 @@ I also contribute to open-source projects in my leisure time.
 
 I enjoy breaking down complex technical ideas into practical insights.
 
-### I Write About
+I write about:
 
 - AI & Machine Learning
 - Data Science
@@ -99,23 +52,13 @@ I enjoy breaking down complex technical ideas into practical insights.
 - Building AI Products
 - Lessons from Real-World Projects
 
-📖 Read my writing on **[Medium](https://medium.com/@yetundebarakbadru)** and **[Substack](https://substack.com/@yetundebadru)**.
+📖 [Medium](https://medium.com/@yetundebarakbadru) · [Substack](https://substack.com/@yetundebadru)
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yetundebarakbadru">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://medium.com/@yetundebarakbadru">
-    <img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium"/>
-  </a>
-  <a href="https://324252784991440896.hello.cv">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/yetundebarakbadru) · [Medium](https://medium.com/@yetundebarakbadru) · [Portfolio](https://324252784991440896.hello.cv)
 
 <div align="center">
 
