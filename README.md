@@ -1,9 +1,18 @@
+<p align="center">
+  <img src="YOUR_BANNER_URL" width="100%" alt="Yetunde Badru Banner"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;Building+AI-Powered+Solutions"/>
+</p>
+
 <div align="center">
 
 # Hi there 👋
 
-### I'm Yetunde Badru 
-# Data Scientist | ML Engineer
+### I'm Yetunde Badru
+
+### Data Scientist | ML Engineer
 
 I'm passionate about building data-driven and machine learning solutions that turn complex problems into practical, deployable products.
 
@@ -103,7 +112,7 @@ I enjoy breaking down complex technical ideas into practical insights.
   <a href="https://medium.com/@yetundebarakbadru">
     <img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://324252784991440896.hello.cv">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
   </a>
 </p>
