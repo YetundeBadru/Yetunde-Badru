@@ -2,7 +2,8 @@
 
 # Hi there 👋
 
-### I'm Yetunde Badru | Data Scientist • ML Engineer
+### I'm Yetunde Badru 
+# Data Scientist | ML Engineer
 
 I'm passionate about building data-driven and machine learning solutions that turn complex problems into practical, deployable products.
 
@@ -26,7 +27,7 @@ I also contribute to open-source projects in my leisure time.
 
 ---
 
-## 🚀 What I Work On
+## I'm Working On
 
 - Machine Learning & Predictive Modelling
 - Data Science & Analytics
@@ -37,7 +38,7 @@ I also contribute to open-source projects in my leisure time.
 
 ---
 
-## 🛠 My Tech Stack
+## My Tech Stack
 
 ### Languages
 
@@ -73,20 +74,6 @@ I also contribute to open-source projects in my leisure time.
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YetundeBadru&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YetundeBadru&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetundeBadru&layout=compact&hide_border=true"/>
-
-</div>
 
 ---
 
